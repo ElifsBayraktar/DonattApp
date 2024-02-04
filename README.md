@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # DonattApp
 
 Uygulama Amacı: Yemek Siparişi Verme
