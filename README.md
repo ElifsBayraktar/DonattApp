@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DonattApp
 
 Uygulama Amacı: Yemek Siparişi Verme
@@ -13,3 +14,21 @@ Uygulama Amacı: Yemek Siparişi Verme
 <img width="360" alt="Drinks" src="https://github.com/ElifsBayraktar/DonattApp/assets/148531552/8491d101-6755-48c5-9369-723571ea4521">
 <img width="351" alt="Profile" src="https://github.com/ElifsBayraktar/DonattApp/assets/148531552/f1344223-b32a-4b52-8581-17de18774dd5">
 <img width="342" alt="Contact" src="https://github.com/ElifsBayraktar/DonattApp/assets/148531552/6dac25d3-b262-4c95-8930-8d63700e22c3">
+=======
+# donattapp
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 7167a63 (Proje Ekleme)
